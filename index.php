@@ -24,7 +24,7 @@
 				     <li><a style="text-decoration:none" href="#about">Sobre Nosotros</a></li>
 				     <li><a style="text-decoration:none" href="#servicios">Servicios</a></li>
 				     <li><a style="text-decoration:none" href="#elegirnos">Poque elegirnos</a></li>
-				     <li><a style="text-decoration:none" href="#trabajos">Mis trabajos</a></li>
+				     <li><a style="text-decoration:none" href="#trabajos">Nuestros trabajos</a></li>
 				     <li><a style="text-decoration:none" href="#blog">Blog</a></li>
 				     <li><a style="text-decoration:none" href="#contactos">Contacto</a></li>
 			    </ul>
@@ -119,7 +119,7 @@
 			<h3>Nuestros Trabajos</h3>
 		    <div class="contenedor-trabajos owl-carousel owl-theme">
 		    	<div class="trabajo item">
-		    		<a href="" target="_blank"><img src="imagenes/appmichell.png" alt="Wodin Digital">
+		    		<a href="http://www.miahpasteleria.com.co/" target="_blank"><img src="imagenes/app.jpg" alt="Wodin Digital">
 		    		</a>
 		    		<p>App JM</p>
 		    	</div>
